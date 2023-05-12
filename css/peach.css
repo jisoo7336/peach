@@ -11,7 +11,7 @@ body{
    
 }
 
-.maim-name{
+#box h1{
     color: white;
-    text-align: center;
+    text-align: center;  
 }
