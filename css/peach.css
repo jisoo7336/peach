@@ -1,5 +1,11 @@
 @charset "UTF-8";
 
-.box{
+#box{
     background-color: #FFABA4;
 }
+
+.maim-name{
+    color: white;
+    text-align: center;
+}
+
