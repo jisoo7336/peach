@@ -5,15 +5,13 @@ body{
 }
 
 #box{ 
-    width: auto;
-    height: auto;
 
-    .maim-name{
-        color: white;
-        text-align: center;
-    }
-    
+  width: auto;
+  height: auto;
    
 }
 
-
+.maim-name{
+    color: white;
+    text-align: center;
+}
