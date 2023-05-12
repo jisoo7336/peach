@@ -1,14 +1,19 @@
 @charset "UTF-8";
 
+body{
+    background-color: #FFABA4;
+}
 
 #box{ 
     width: auto;
     height: auto;
-    background-color: #FFABA4;
+
+    .maim-name{
+        color: white;
+        text-align: center;
+    }
+    
+   
 }
 
-.maim-name{
-    color: white;
-    text-align: center;
-}
 
