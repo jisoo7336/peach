@@ -1,6 +1,9 @@
 @charset "UTF-8";
 
-#box{
+
+#box{ 
+    width: auto;
+    height: auto;
     background-color: #FFABA4;
 }
 
